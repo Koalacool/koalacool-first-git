@@ -3,8 +3,5 @@ push something
 In master, 
 =======
 
+In review the conflict.
 
-In new, 
-
->>>>>>> new
-new conflict function! 
