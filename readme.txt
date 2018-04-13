@@ -5,4 +5,6 @@ In master,
 
 
 In new, 
+
 >>>>>>> new
+new conflict function! 
